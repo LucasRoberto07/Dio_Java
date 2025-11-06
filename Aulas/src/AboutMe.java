@@ -22,6 +22,6 @@ public class AboutMe {
         System.out.println("Você tem: " + idade + "Anos" );
         System.out.println("E Mede: "+ altura + "CM");
 
-        
+        scanner.close();
     }
 }
